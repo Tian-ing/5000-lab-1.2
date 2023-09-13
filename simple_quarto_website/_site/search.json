@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site # Introduction\nThis is an introduction to our project."
+  },
+  {
+    "objectID": "about.html#project-overview",
+    "href": "about.html#project-overview",
+    "title": "About",
+    "section": "Project Overview",
+    "text": "Project Overview\nIn this section, we provide an overview of our project.\n\n\nimport matplotlib.pyplot as plt\nplt.plot([1,2,3])\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nAute non magna laborum ut do anim laboris aliqua ut qui dolor culpa.\n\nCulpa duis esse velit ea aute.\n\n\nmarkdown bold\nbold unbold\n\\(1 \\div 1\\)\n\nSample Table\n\n\n\n\n\nID\n\n\nName\n\n\nAge\n\n\n\n\n1234\n\n\nabc\n\n\n123\n\n\n\n\n\\[\n        \\sqrt{100}  \\\\   \n        \\newline   \n        \\theta 10\n\\]\n\n1\n\n\nThis is a quot\n\n\n\n\nImage 1\n\n\n\n\n\nImage 1\n\n\n\n\nVideo\nVideo Title\n\n\ngraph TD;\n    A--&gt;B;\n    A--&gt;C;\n    B--&gt;D;\n    C--&gt;D;\n\n\n\ncitation\ncitation\n(Hong et al. 2020)\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n\n\nReferences\n\nHong, Tao, Pierre Pinson, Yi Wang, Rafał Weron, Dazhi Yang, and Hamidreza Zareipour. 2020. “Energy Forecasting: A Review and Outlook.” IEEE Open Access Journal of Power and Energy 7: 376–88. https://doi.org/10.1109/OAJPE.2020.3029979."
+  },
+  {
+    "objectID": "slides/slides.html#aliquip-aliqua-incididunt-proident-veniam-velit-in-quis-adipisicing-adipisicing-consequat-voluptate-qui-eu.",
+    "href": "slides/slides.html#aliquip-aliqua-incididunt-proident-veniam-velit-in-quis-adipisicing-adipisicing-consequat-voluptate-qui-eu.",
+    "title": "Quarto test",
+    "section": "Aliquip aliqua incididunt proident veniam velit in quis adipisicing adipisicing consequat voluptate qui eu.",
+    "text": "Aliquip aliqua incididunt proident veniam velit in quis adipisicing adipisicing consequat voluptate qui eu.\nAdipisicing cillum ex exercitation et minim incididunt id do in occaecat magna. (Chen, Chen, and Lin 2020)\n(Hong et al. 2020)"
+  },
+  {
+    "objectID": "slides/slides.html#python",
+    "href": "slides/slides.html#python",
+    "title": "Quarto test",
+    "section": "python",
+    "text": "python\n\nimport matplotlib.pyplot as plt\nplt.plot([1,2,3,4])"
+  },
+  {
+    "objectID": "slides/slides.html#aliquip-aliqua-incididunt-proident-veniam-velit-in-quis-adipisicing-adipisicing-consequat-voluptate-qui-eu.-1",
+    "href": "slides/slides.html#aliquip-aliqua-incididunt-proident-veniam-velit-in-quis-adipisicing-adipisicing-consequat-voluptate-qui-eu.-1",
+    "title": "Quarto test",
+    "section": "Aliquip aliqua incididunt proident veniam velit in quis adipisicing adipisicing consequat voluptate qui eu.",
+    "text": "Aliquip aliqua incididunt proident veniam velit in quis adipisicing adipisicing consequat voluptate qui eu.\nAdipisicing cillum ex exercitation et minim incididunt id do in occaecat magna."
+  },
+  {
+    "objectID": "slides/slides.html#aliquip-aliqua-incididunt-proident-veniam-velit-in-quis-adipisicing-adipisicing-consequat-voluptate-qui-eu.-2",
+    "href": "slides/slides.html#aliquip-aliqua-incididunt-proident-veniam-velit-in-quis-adipisicing-adipisicing-consequat-voluptate-qui-eu.-2",
+    "title": "Quarto test",
+    "section": "Aliquip aliqua incididunt proident veniam velit in quis adipisicing adipisicing consequat voluptate qui eu.",
+    "text": "Aliquip aliqua incididunt proident veniam velit in quis adipisicing adipisicing consequat voluptate qui eu.\nAdipisicing cillum ex exercitation et minim incididunt id do in occaecat magna.\n\n\n\n\n\n\nChen, Lijia, Pingping Chen, and Zhijian Lin. 2020. “Artificial Intelligence in Education: A Review.” IEEE Access 8: 75264–78. https://doi.org/10.1109/ACCESS.2020.2988510.\n\n\nHong, Tao, Pierre Pinson, Yi Wang, Rafał Weron, Dazhi Yang, and Hamidreza Zareipour. 2020. “Energy Forecasting: A Review and Outlook.” IEEE Open Access Journal of Power and Energy 7: 376–88. https://doi.org/10.1109/OAJPE.2020.3029979."
+  }
+]

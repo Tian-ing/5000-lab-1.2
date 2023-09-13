@@ -1,0 +1,83 @@
+---
+title: "simple_quarto_website"
+bibliography: references.bib
+---
+
+This is a Quarto website.
+
+
+
+Aute non magna laborum ut do anim laboris aliqua ut qui dolor culpa.
+
+<h2>
+Culpa duis esse velit ea aute. 
+</h2>
+#  markdown **bold**
+
+**bold**
+unbold   
+$1 \div 1$    
+
+<h1>Sample Table</h1>
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Age</th>
+    </tr>
+    <tr>
+        <td>1234</td>
+        <td>abc</td>
+        <td>
+        123
+        </td>
+    </tr>
+    
+</table>
+$$ 
+        \sqrt{100}  \\   
+        \newline   
+        \theta 10
+$$
+
+
+<tfoot>
+    
+    1
+    
+</tfoot>
+
+> This is a quot
+
+![Image 1](http://tianwin.georgetown.domains/images/photo.png)
+
+![Image 1](http://tianwin.georgetown.domains/images/my_image.jpeg)
+
+[![Video Title](http://tianwin.georgetown.domains/data/IMG_4115-1.mov)](http://tianwin.georgetown.domains/data/IMG_4115-1.mov)
+
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+
+```
+
+
+
+# citation
+
+
+
+citation
+
+[@qwer1234]
+
+
+
+
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
